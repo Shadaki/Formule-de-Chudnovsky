@@ -1,5 +1,7 @@
 # Formule de Chudnovsky
 
+![](https://raw.githubusercontent.com/sagessylu/Formule-de-Chudnovsky/master/pi_Chudnovsky.jpg)
+
 J'utilise le code suivant pour calculer la racine carrée d'un nombre (méthode de Héron) :
 
 ```
