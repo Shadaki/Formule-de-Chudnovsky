@@ -1,6 +1,6 @@
 # Formule de Chudnovsky
 
-J'utilise le code suivant pour calculer la racine carrée d'un nombre :
+J'utilise le code suivant pour calculer la racine carrée d'un nombre (méthode de Héron) :
 
 ```
 from decimal import *
