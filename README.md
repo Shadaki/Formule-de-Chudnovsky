@@ -1,6 +1,6 @@
 # Formule de Chudnovsky
 
-![](https://raw.githubusercontent.com/sagessylu/Formule-de-Chudnovsky/master/pi_Chudnovsky.jpg)
+![](https://raw.githubusercontent.com/sagessylu/Formule-de-Chudnovsky/master/pi_Chudnovsky.jpg | width=750)
 
 J'utilise la méthode de Héron pour calculer la racine carrée d'un nombre :
 
